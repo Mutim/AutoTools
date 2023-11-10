@@ -1,0 +1,32 @@
+## Auto Typer:
+
+Hotkeys Option that will open another window and allow the user to change the hotkeys from in app
+
+
+## Auto Clicker:
+
+Click Interval:
+[0] Hours [0] Minutes [3] Seconds [0] Milliseconds
+
+Click Repeat:
+() Infinite (Until Stopped)
+() [  ] Times
+
+Click Options:
+Mouse Button [Left v]  #Left, Right, Middle
+Click Type [Single v]  #Single, Double, Triple
+
+Click Position:
+() Current Cursor Position
+()X []  Y []  Pick Location  #Opens full screen sized window, and captures the position of the mouse, then replaces the X,Y
+
+
+[Start (F6)]  [Stop (F7)]  [Toggle (F8)]
+[Save Settings]  [Reset Settings]  [Hotkeys]
+
+Start: Starts the program loop
+Stop: Stops the program loop
+Togggle: Breaks and waits for F8 input
+Save Settings: Will save these settings to a file that is loaded on start
+Reset Settings: Will load the default map from config
+Hotkeys: Will open another window where the user can modify the config options from in app
